@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valendio
-- 👀 I’m interested in <Machine learning and AI>
+- 👀 I’m interested in Machine learning and AI
 - 🌱 I’m newbie in programming and i just learn basic programming
 - Honestly i hate programming
 
